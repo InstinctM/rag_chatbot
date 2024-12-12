@@ -1,0 +1,5 @@
+pymilvus
+langchain
+langchain-ollama
+langchain-community
+transformers
